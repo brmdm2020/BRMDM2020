@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BRMDM2020&show_icons=true&theme=transparent)
+<div align="center">
+  <a href="https://github.com/brmdm2020">
+    <img height="165" src="主卡片URL&theme=transparent&include_all_commits=true" />
+    <img height="165" src="语言卡片URL&theme=transparent&layout=compact" />
+  </a>
+</div>
 <!--
 **brmdm2020/BRMDM2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
