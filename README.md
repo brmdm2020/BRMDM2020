@@ -1,5 +1,6 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=BRMDM2020&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BRMDM2020&show_icons=true&theme=transparent)
 <!--
 **brmdm2020/BRMDM2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
