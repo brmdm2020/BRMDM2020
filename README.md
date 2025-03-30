@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brmdm2020&theme=transparent&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions&hide_border=true&text_color=8C929D&icon_color=58A6FF&title_color=58A6FF)             
-  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brmdm2020&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions&hide_border=true&title_color=58A6FF&text_color=8C929D&icon_color=58A6FF)](https://github.com/brmdm2020) 
 <!--
 **brmdm2020/BRMDM2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
