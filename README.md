@@ -4,7 +4,7 @@
 <!-- ║  🖼️ 动图 Banner                                       ║ -->
 <!-- ║  替换下方 src="..." 中的链接为你喜欢的动图/壁纸即可     ║ -->
 <!-- ╚═══════════════════════════════════════════════════════╝ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&text=%F0%9F%96%BC%EF%B8%8F&fontSize=50&fontColor=30363d" width="80%" alt="banner" />
+<img src="https://cloudpaste.brmdm.eu.org/file/0pq5iq" width="80%" alt="banner" />
 
 <br>
 
