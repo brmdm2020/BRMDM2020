@@ -4,7 +4,7 @@
 <!-- ║  🖼️ 动图 Banner                                       ║ -->
 <!-- ║  替换下方 src="..." 中的链接为你喜欢的动图/壁纸即可     ║ -->
 <!-- ╚═══════════════════════════════════════════════════════╝ -->
-<img src="https://cloudpaste.brmdm.eu.org/file/0pq5iq" width="80%" alt="banner" />
+<img src="https://cloudpaste.brmdm.eu.org/api/s/0pq5iq?down=true" width="80%" alt="banner" />
 
 <br>
 
