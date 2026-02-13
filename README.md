@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- ╔═══════════════════════════════════════════════════════╗ -->
-<!-- ║  🖼️ 动图 Banner                                       ║ -->
-<!-- ║  替换下方 src="..." 中的链接为你喜欢的动图/壁纸即可     ║ -->
-<!-- ╚═══════════════════════════════════════════════════════╝ -->
-<img src="https://cloudpaste.brmdm.eu.org/api/s/0pq5iq?down=true" width="80%" alt="banner" />
+<img src="./banner.gif" width="80%" alt="banner" />
 
 <br>
 
@@ -39,24 +35,18 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=brmdm2020&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&locale=cn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=brmdm2020&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=6&locale=cn" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=brmdm2020&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&locale=cn" alt="GitHub Stats" />
-</picture>
+<a href="https://github.com/brmdm2020">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brmdm2020&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&locale=cn" alt="GitHub Stats" />
+</a>
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brmdm2020&layout=compact&hide_border=true&border_radius=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&locale=cn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brmdm2020&layout=compact&hide_border=true&border_radius=6&langs_count=6&locale=cn" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brmdm2020&layout=compact&hide_border=true&border_radius=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&locale=cn" alt="Top Langs" />
-</picture>
+<a href="https://github.com/brmdm2020">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brmdm2020&layout=compact&hide_border=true&border_radius=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&locale=cn" alt="Top Langs" />
+</a>
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=brmdm2020&hide_border=true&border_radius=6&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&locale=zh_Hans" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=brmdm2020&hide_border=true&border_radius=6&locale=zh_Hans" />
+<a href="https://github.com/brmdm2020">
   <img src="https://streak-stats.demolab.com?user=brmdm2020&hide_border=true&border_radius=6&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&locale=zh_Hans" alt="GitHub Streak" />
-</picture>
+</a>
 
 </div>
